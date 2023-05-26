@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691157952595",
+    "project_id": "sinalizacao-rodoviaria",
+    "storage_bucket": "sinalizacao-rodoviaria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691157952595:android:377afb20c5a3dbbe937ea6",
+        "android_client_info": {
+          "package_name": "com.example.sinalizacao_rodoviaria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYGpLSk7eWceTelaY5kFTipxO770DIfwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
